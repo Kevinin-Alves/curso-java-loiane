@@ -1,0 +1,783 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ex02",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio20.ex02",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch testeMatLinhaColuna",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio20.testeMatLinhaColuna",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex01",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio20.ex01",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.teste",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex37",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex37",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex36",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex36",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex35",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex35",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex34",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex34",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex33",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex33",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex32",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex32",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex31",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex31",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex30",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex30",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex29",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex29",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex28",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex28",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex27",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex27",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex27",
+            "request": "launch",
+            "mainClass": "ex27"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex26",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex26",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex25",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex25",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex24",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex24",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex23",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex23",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex22",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex22",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex20",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex20",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex19",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex19",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex18",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex18",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex17",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex17",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex16",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex16",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex15",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex15",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex01",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio19.ex01",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex32",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex32",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex31",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex31",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex30",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex30",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.teste",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex15",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex15",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex14",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex14",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex13",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex13",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex12",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex12",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex11",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex11",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex10",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex10",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex09",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex09",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex08",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex08",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex07",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex07",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex06",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex06",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex05",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex05",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex04",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex04",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex03",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex03",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex02",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex02",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeituraDadosTeclado",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula12.LeituraDadosTeclado",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresAritimeticos",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula12.OperadoresAritimeticos",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula12.OperadoresRelacionais",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurtoCircuito",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula13.CurtoCircuito",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula13.OperadoresLogicos",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifElse",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula14.ifElse",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCase",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula15.SwitchCase",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopWhile",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula16.LoopWhile",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopFor",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula17.LoopFor",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula17.teste",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakEContinue",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula18.BreakEContinue",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakEContinueRotulo",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula18.BreakEContinueRotulo",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.Arrays",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex01",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.aula19.ex01",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch AloMundo",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.AloMundo",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex02",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex02",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex03",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex03",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex04",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex04",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex05",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex05",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex06",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex06",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex07",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex07",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex08",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex08",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex09",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex09",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex10",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex10",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex11",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex11",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex12",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex12",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex13",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio13.ex13",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex01(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex01",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex02(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex02",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex03(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex03",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex04(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex04",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex05(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex05",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex06(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex06",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex07(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex07",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex08(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex08",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex10(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex10",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex11(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex11",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex12(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex12",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex13(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex13",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex14",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio14.ex14",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex01(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex01",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex02(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex02",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex03(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex03",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex04(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex04",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex06(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex06",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex09(1)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex09",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex10(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex10",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex11(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex11",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex12(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex12",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex13(2)",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex13",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex15",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex15",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex17",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex17",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex18",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex18",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex19",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex19",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex20",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex20",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex21",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex21",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex22",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex22",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex23",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex23",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex24",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex24",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex25",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex25",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex26",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex26",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex27",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex27",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex28",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex28",
+            "projectName": "curso-java-basico"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex29",
+            "request": "launch",
+            "mainClass": "com.kevinin.cursojava.exercicio17.ex29",
+            "projectName": "curso-java-basico"
+        }
+    ]
+}
